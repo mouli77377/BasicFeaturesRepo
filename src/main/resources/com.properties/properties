@@ -1,0 +1,20 @@
+url = https://www.instagram.com/
+browsername = chrome
+username = mouli__777
+password = padmini
+Opencartlogin = https://tutorialsninja.com/demo/index.php?route=account/login
+OpenCartregister = https://tutorialsninja.com/demo/index.php?route=account/register
+opUsername = john.doe@example.com
+opPassword = Pass1234
+opUsername1 = jane.smith@example.com
+opPassword1 = Jane@123
+opUsername2 = michael.johnson@example.com
+opPassword2 = Mike#456
+opUsername3 = emily.davis@example.com
+opPassword3 = Emily!78
+opUsername4 = david.wilson@example.com
+opPassword4 = David@99
+
+
+
+
