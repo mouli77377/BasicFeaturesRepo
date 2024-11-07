@@ -13,7 +13,7 @@ public class OpenCartRegisterAndLoginTest extends com.utilities.AccessProperties
 	@Parameters("browser")
 	public void lunch(String browsername) throws Exception
 	{
-
+          // this loadproperties method will load properties from properties file
 		loadProperties();
 		loginurl(browsername);
 	}
