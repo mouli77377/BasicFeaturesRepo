@@ -8,7 +8,7 @@ import pageObjectModel.OpenCartLogin;
 
 public class OpenCartRegisterAndLoginTest extends com.utilities.AccessProperties
 {
-
+    // This is Before method
 	@BeforeMethod
 	@Parameters("browser")
 	public void lunch(String browsername) throws Exception
